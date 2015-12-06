@@ -9,34 +9,28 @@ image:
   credit: National Geographic
   creditlink: http://kids.nationalgeographic.com/explore/countries/iran/#iran-tehran.jpg
 ---
-
-## My Interest
+### My Interest
 
 I'm a curious data science researcher with strong interest in mining, visualizing and processing big data! I'm passionate about the following subjects:
-
 * Big Data Analytics
 * Machine Learning
 * Data Mining
 * Cloud Computing
-
-## Education
 ***
-
-### Amirkabir University of Technology (Tehran Polytechnic)
-
+### Education
+**Amirkabir University of Technology (Tehran Polytechnic)**
 M.Sc. in Software Engineering, 2013 - Present
 
 - Thesis: Proposing a New Method for Parallel and Scalable Data Clustering Using MapReduce
 - Advisor: Prof. Alireza Bagheri
 
-### Imam Khomeini International University
+**Imam Khomeini International University**
 B.Sc. in Computer Engineering
 
 - Thesis: Design and Implementation of Tone Tuner and Generator Android Application for Traditional Persian Musical Modal System
 - Advisor: Prof. Mohammad Amin Mahdavi
-
-## Skills
 ***
+### Skills
 
 + Programming Languages
 	+ Scala
