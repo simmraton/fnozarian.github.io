@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Yet another Data reasercher
 locale:           en_US
 url:
 
@@ -26,22 +26,22 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Farzad Nozarian
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  bio: "I am master student at Amir Kabir University of Technology. I research in the filed of Big data analytics, data mining and machine learning with focus on Cluster Analysis."
+  email: fnozarian@gmail.com
   disqus-shortname:
   twitter: #username
   facebook: #username
   google:
-    plus: #username
+    plus: fnozarian
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  github: fnozarian
+  stackoverflow: 1658068/farzad   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
   instagram: #username
