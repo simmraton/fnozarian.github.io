@@ -9,11 +9,14 @@ image:
   credit: National Geographic
   creditlink: http://kids.nationalgeographic.com/explore/countries/iran/#iran-tehran.jpg
 ---
+
+## My Interest
+
 I'm a curious data science researcher with strong interest in mining, visualizing and processing big data! I'm passionate about the following subjects:
-+ Big Data Analytics
-+ Machine Learning
-+ Data Mining
-+ Cloud Computing
+* Big Data Analytics
+* Machine Learning
+* Data Mining
+* Cloud Computing
 
 ## Education
 ***
