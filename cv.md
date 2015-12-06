@@ -12,12 +12,16 @@ image:
 ### My Interest
 
 I'm a curious data science researcher with strong interest in mining, visualizing and processing big data! I'm passionate about the following subjects:
+
 * Big Data Analytics
 * Machine Learning
 * Data Mining
 * Cloud Computing
-***
+
+---
+
 ### Education
+
 **Amirkabir University of Technology (Tehran Polytechnic)**
 M.Sc. in Software Engineering, 2013 - Present
 
@@ -29,7 +33,9 @@ B.Sc. in Computer Engineering
 
 - Thesis: Design and Implementation of Tone Tuner and Generator Android Application for Traditional Persian Musical Modal System
 - Advisor: Prof. Mohammad Amin Mahdavi
-***
+
+---
+
 ### Skills
 
 + Programming Languages
