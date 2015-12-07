@@ -63,6 +63,8 @@ I'm a curious data science researcher with strong interest in mining, visualizin
 the _National Entrance Examination for Graduate Schools_, as a reward for having high academic records and achievements &mdash; **2013**
 + Awarded as **Outstanding Student** by the head of Computer Engineering department, Imam Khomeini International University &mdash; **2011**
 
+---
+
 ### ![research]({{ site.url }}/images/cv/research.png){: .image-pull-left} Research Experience
 
 + **Data Analyst**, Big Data Research Lab, Amirkabir University of Technology &mdash; **2015 - Present**.
@@ -83,6 +85,7 @@ the _National Entrance Examination for Graduate Schools_, as a reward for having
 	+ Responsible for designing and implementing dynamic web pages and developing various Joomla components.
 + **Software Developer**, Webgostar, Tehran &mdash; **Mar 2012 - Jul 2012**
 	+ Responsible for designing and implementing a license management system which provide activation solutions to protect any third-party Windows application from illegal copying.
+
 ---
 
 ### ![teaching]({{ site.url }}/images/cv/teacher.png){: .image-pull-left} Teaching Experience
