@@ -10,7 +10,7 @@ image:
   creditlink: http://kids.nationalgeographic.com/explore/countries/iran/#iran-tehran.jpg
 ---
 
-### ![interest]({{ site.url }}/images/cv/about.png){: .image-pull-left} My Interests
+### ![interest]({{ site.url }}/images/cv/about.png){: .image-pull-left} My Interests <div markdown="0"><a href="#" class="btn">Download Full CV</a></div>
 
 I'm a curious data science researcher with strong interest in mining, visualizing and processing big data! I'm passionate about the following subjects:
 	
