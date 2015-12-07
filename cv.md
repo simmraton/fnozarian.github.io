@@ -30,6 +30,7 @@ I'm a curious data science researcher with strong interest in mining, visualizin
 - **B.Sc. in Computer Engineering**, _Imam Khomeini International University_, Qazvin, Iran &mdash; **2009 - 2013**
 	- Thesis: Design and Implementation of Tone Tuner and Generator Android Application for Traditional Persian Musical Modal System
 	- Advisor: Prof. Mohammad Amin Mahdavi
+	- ![first_rank]({{ site.url }}/images/cv/rank.png) **1st Rank**, Achieving the highest GPA among all university Computer Engineering undergraduate students
 	
 ---
 
