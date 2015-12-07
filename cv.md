@@ -77,6 +77,7 @@ the _National Entrance Examination for Graduate Schools_, as a reward for having
 	+ I'm responsible for researching, investigating and training various Big Data framework and technologies such as Apache Spark, Apache Hadoop, etc.
 + **Big Data Researcher**, Big Data Research Lab, Amirkabir University of Technology &mdash; **Fall 2014 - Present**
 	+ I'm researching on large scale _clustering_ algorithms to parallelize them using Big Data frameworks such as Apache Spark. I've proposed a scalable hierarchical clustering algorithm using Spark (MRSSL).
+
 ---
 
 ### ![work]({{ site.url }}/images/cv/work.png){: .image-pull-left} Work Experience
