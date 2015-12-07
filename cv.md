@@ -12,8 +12,6 @@ image:
 
 ### ![interest]({{ site.url }}/images/cv/about.png){: .image-pull-left} My Interests
 
-
-
 I'm a curious data science researcher with strong interest in mining, visualizing and processing big data! I'm passionate about the following subjects:
 
 * Big Data Analytics
@@ -23,9 +21,7 @@ I'm a curious data science researcher with strong interest in mining, visualizin
 
 ---
 
-![interest]({{ site.url }}/images/cv/university.png)
-
-### Education
+### ![interest]({{ site.url }}/images/cv/university.png) Education
 
 - **M.Sc. in Software Engineering**, _Amirkabir University of Technology (Tehran Polytechnic)_, Tehran, Iran &mdash; **2013 - Present**
 	- Thesis: Proposing a New Method for Parallel and Scalable Data Clustering Using MapReduce
@@ -37,9 +33,7 @@ I'm a curious data science researcher with strong interest in mining, visualizin
 
 ---
 
-![interest]({{ site.url }}/images/cv/skill.png)
-
-### Skills
+### ![interest]({{ site.url }}/images/cv/skill.png) Skills
 
 + **Programming Languages**
 	+ Scala, Java, Python, R, C#, C/C++, SQL
