@@ -40,19 +40,19 @@ I'm a curious data science researcher with strong interest in mining, visualizin
 ### Skills
 
 + **Programming Languages**
-		+ Scala, Java, Python, R, C#, C/C++, SQL
+	+ Scala, Java, Python, R, C#, C/C++, SQL
 
 + **Big Data Technologies**
-		+ Spark, Hadoop, HDFS, MapReduce, Pig, Hive, HBase, Flume, Sqoop, Storm, GraphX, Spark Stream, MLlib, Pregel
+	+ Spark, Hadoop, HDFS, MapReduce, Pig, Hive, HBase, Flume, Sqoop, Storm, GraphX, Spark Stream, MLlib, Pregel
 
 + **Data Visualization**
-		+ Tableau, D3, Matplotlib
+	+ Tableau, D3, Matplotlib
 
 + **Web Programming**
-		+ HTML, CSS, JavaScript, AJAX, PHP, ASP.Net, jQuery, XML, MySQL, MSSQL, Web Services, Joomla
+	+ HTML, CSS, JavaScript, AJAX, PHP, ASP.Net, jQuery, XML, MySQL, MSSQL, Web Services, Joomla
 
 + **Networking**
-		+ Microsoft Certified IT Professional (MCITP), Cisco Certified Network Associate (CCNA), VMware, Packet Tracer, Wireshark
+	+ Microsoft Certified IT Professional (MCITP), Cisco Certified Network Associate (CCNA), VMware, Packet Tracer, Wireshark
 	
 + **Mobile Programming**
-		+ Android
+	+ Android
