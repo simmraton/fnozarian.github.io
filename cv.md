@@ -60,7 +60,7 @@ I'm a curious data science researcher with strong interest in mining, visualizin
 + Graduated **Cum Laude**, Honors in Computer Engineering, Imam Khomeini International University &mdash; **2013**
 + Awarded **honorary admission** to the graduate program (M.Sc.) at the Computer Engineering department, Imam Khomeini International University, without taking
 the _National Entrance Examination for Graduate Schools_, as a reward for having high academic records and achievements &mdash; **2013**
-+ Awarded as Outstanding Student by the head of Computer Engineering department, Imam Khomeini International University &mdash; **2011**
++ Awarded as **Outstanding Student** by the head of Computer Engineering department, Imam Khomeini International University &mdash; **2011**
 
 
 
