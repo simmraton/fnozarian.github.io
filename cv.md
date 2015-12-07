@@ -6,8 +6,8 @@ tags: [about, resume, cv]
 comments: false
 image:
   feature: google-datacenter.jpg
-  credit: National Geographic
-  creditlink: http://kids.nationalgeographic.com/explore/countries/iran/#iran-tehran.jpg
+  credit: Fortune
+  creditlink: http://fortune.com/2015/06/24/google-data-center-alabama/
 ---
 
 ### ![interest]({{ site.url }}/images/cv/about.png){: .image-pull-left} My Interests <a href="#" class="btn" style="float:right">Download Full CV</a>
