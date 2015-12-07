@@ -9,9 +9,12 @@ image:
   credit: National Geographic
   creditlink: http://kids.nationalgeographic.com/explore/countries/iran/#iran-tehran.jpg
 ---
-![interest]({{ site.url }}/images/cv/about.png)
 
-### My Interest
+<h3>
+<img src="{{ site.url }}/images/cv/about.png" alt="interest" style="float:left">
+My Interest
+</h3>
+
 
 I'm a curious data science researcher with strong interest in mining, visualizing and processing big data! I'm passionate about the following subjects:
 
@@ -19,6 +22,7 @@ I'm a curious data science researcher with strong interest in mining, visualizin
 * Machine Learning
 * Data Mining
 * Cloud Computing
+{: .notice}
 
 ---
 
@@ -26,15 +30,15 @@ I'm a curious data science researcher with strong interest in mining, visualizin
 
 ### Education
 
-**M.Sc. in Software Engineering**, _Amirkabir University of Technology (Tehran Polytechnic)_, Tehran, Iran &mdash; **2013 - Present**
+- **M.Sc. in Software Engineering**, _Amirkabir University of Technology (Tehran Polytechnic)_, Tehran, Iran &mdash; **2013 - Present**
 
-- Thesis: Proposing a New Method for Parallel and Scalable Data Clustering Using MapReduce
-- Advisor: Prof. Alireza Bagheri
+	- Thesis: Proposing a New Method for Parallel and Scalable Data Clustering Using MapReduce
+	- Advisor: Prof. Alireza Bagheri
 
-**B.Sc. in Computer Engineering**,_Imam Khomeini International University_, Qazvin, Iran &mdash; **2009-2013**
+- **B.Sc. in Computer Engineering**, _Imam Khomeini International University_, Qazvin, Iran &mdash; **2009-2013**
 
-- Thesis: Design and Implementation of Tone Tuner and Generator Android Application for Traditional Persian Musical Modal System
-- Advisor: Prof. Mohammad Amin Mahdavi
+	- Thesis: Design and Implementation of Tone Tuner and Generator Android Application for Traditional Persian Musical Modal System
+	- Advisor: Prof. Mohammad Amin Mahdavi
 
 ---
 
@@ -44,23 +48,23 @@ I'm a curious data science researcher with strong interest in mining, visualizin
 
 + Programming Languages
 
-Scala, Java, Python, R, C#, C/C++, SQL
+	+ Scala, Java, Python, R, C#, C/C++, SQL
 
 + Big Data Technologies
 
-Spark, Hadoop, HDFS, MapReduce, Pig, Hive, HBase, Flume, Sqoop, Storm, GraphX, Spark Stream, MLlib, Pregel
+	+ Spark, Hadoop, HDFS, MapReduce, Pig, Hive, HBase, Flume, Sqoop, Storm, GraphX, Spark Stream, MLlib, Pregel
 
 + Data Visualization
 
-Tableau, D3, Matplotlib
+	+ Tableau, D3, Matplotlib
 
 + Web Programming
 
-HTML, CSS, JavaScript, AJAX, PHP, ASP.Net, jQuery, XML, MySQL, MSSQL, Web Services, Joomla
+	+ HTML, CSS, JavaScript, AJAX, PHP, ASP.Net, jQuery, XML, MySQL, MSSQL, Web Services, Joomla
 
 + Networking
 
-Microsoft Certified IT Professional (MCITP), Cisco Certified Network Associate (CCNA), VMware, Packet Tracer, Wireshark
+	+ Microsoft Certified IT Professional (MCITP), Cisco Certified Network Associate (CCNA), VMware, Packet Tracer, Wireshark
 
 + Mobile Programming
-Android
+	+ Android
