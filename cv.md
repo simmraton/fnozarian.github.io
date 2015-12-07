@@ -27,7 +27,7 @@ I'm a curious data science researcher with strong interest in mining, visualizin
 	- Thesis: Proposing a New Method for Parallel and Scalable Data Clustering Using MapReduce
 	- Advisor: Prof. Alireza Bagheri
 
-- **B.Sc. in Computer Engineering**, _Imam Khomeini International University_, Qazvin, Iran &mdash; **2009-2013**
+- **B.Sc. in Computer Engineering**, _Imam Khomeini International University_, Qazvin, Iran &mdash; **2009 - 2013**
 	- Thesis: Design and Implementation of Tone Tuner and Generator Android Application for Traditional Persian Musical Modal System
 	- Advisor: Prof. Mohammad Amin Mahdavi
 
