@@ -63,6 +63,11 @@ I'm a curious data science researcher with strong interest in mining, visualizin
 the _National Entrance Examination for Graduate Schools_, as a reward for having high academic records and achievements &mdash; **2013**
 + Awarded as **Outstanding Student** by the head of Computer Engineering department, Imam Khomeini International University &mdash; **2011**
 
+### ![teaching]({{ site.url }}/images/cv/teacher.png){: .image-pull-left} Teaching Experience
+
++ Cloud Computing and Data Intensive Computing, _Amir Hossein Payberah_ &mdash; **Spring 2015**.
++ Cloud Computing and Data Intensive Computing, _Amir Hossein Payberah_ &mdash; **Fall 2014**.
++ Advanced Programming, _Mohammad Amin Mahdavi_ &mdash; **Spring 2013**.
 
 
 
