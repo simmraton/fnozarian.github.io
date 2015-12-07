@@ -5,7 +5,7 @@ title: About Me!
 tags: [about, resume, cv]
 comments: false
 image:
-  feature: iran-tehran.jpg
+  feature: google-datacenter.jpg
   credit: National Geographic
   creditlink: http://kids.nationalgeographic.com/explore/countries/iran/#iran-tehran.jpg
 ---
@@ -128,8 +128,6 @@ the _National Entrance Examination for Graduate Schools_, as a reward for having
 + **Configuring Windows Server 2008 R2 Network Infrastructure**, _Microsoft Certified IT Professional (MCITP)_, Tehran Institute of Technology (MFT), License 172047 &mdash; **Jun 2011**
 + **Configuring Windows Server 2008 R2 Applications Infrastructure**, _Microsoft Certified IT Professional (MCITP)_, Tehran Institute of Technology (MFT), License 166604 &mdash; **May 2011**
 + **Windows 7**, _Microsoft Certified IT Professional (MCITP)_, Tehran Institute of Technology (MFT), License 160180 &mdash; **Feb 2011**
-
----
 
 
 
