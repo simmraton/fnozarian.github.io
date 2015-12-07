@@ -13,10 +13,10 @@ image:
 ### ![interest]({{ site.url }}/images/cv/about.png){: .image-pull-left} My Interests
 
 I'm a curious data science researcher with strong interest in mining, visualizing and processing big data! I'm passionate about the following subjects:
-* Big Data Analytics
-* Machine Learning
-* Data Mining
-* Cloud Computing
+	+ Big Data Analytics
+	+ Machine Learning
+	+ Data Mining
+	+ Cloud Computing
 
 ---
 
