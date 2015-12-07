@@ -14,10 +14,10 @@ image:
 
 I'm a curious data science researcher with strong interest in mining, visualizing and processing big data! I'm passionate about the following subjects:
 	
-+ Big Data Analytics
-+ Machine Learning
-+ Data Mining
-+ Cloud Computing
++ **Big Data Analytics**
++ **Machine Learning**
++ **Data Mining**
++ **Cloud Computing**
 
 ---
 
