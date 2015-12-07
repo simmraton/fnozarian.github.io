@@ -10,7 +10,7 @@ image:
   creditlink: http://kids.nationalgeographic.com/explore/countries/iran/#iran-tehran.jpg
 ---
 
-[interest]({{ site.url }}/images/cv/about.png){: .image-pull-right} ###My Interest 
+![interest]({{ site.url }}/images/cv/about.png){: .image-pull-left} ###My Interest 
 
 I'm a curious data science researcher with strong interest in mining, visualizing and processing big data! I'm passionate about the following subjects:
 
@@ -39,20 +39,20 @@ I'm a curious data science researcher with strong interest in mining, visualizin
 
 ### Skills
 
-+ Programming Languages
++ **Programming Languages**
 		+ Scala, Java, Python, R, C#, C/C++, SQL
 
-+ Big Data Technologies
++ **Big Data Technologies**
 		+ Spark, Hadoop, HDFS, MapReduce, Pig, Hive, HBase, Flume, Sqoop, Storm, GraphX, Spark Stream, MLlib, Pregel
 
-+ Data Visualization
++ **Data Visualization**
 		+ Tableau, D3, Matplotlib
 
-+ Web Programming
++ **Web Programming**
 		+ HTML, CSS, JavaScript, AJAX, PHP, ASP.Net, jQuery, XML, MySQL, MSSQL, Web Services, Joomla
 
-+ Networking
++ **Networking**
 		+ Microsoft Certified IT Professional (MCITP), Cisco Certified Network Associate (CCNA), VMware, Packet Tracer, Wireshark
 	
-+ Mobile Programming
++ **Mobile Programming**
 		+ Android
