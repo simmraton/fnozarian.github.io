@@ -63,12 +63,34 @@ I'm a curious data science researcher with strong interest in mining, visualizin
 the _National Entrance Examination for Graduate Schools_, as a reward for having high academic records and achievements &mdash; **2013**
 + Awarded as **Outstanding Student** by the head of Computer Engineering department, Imam Khomeini International University &mdash; **2011**
 
+### ![research]({{ site.url }}/images/cv/research.png){: .image-pull-left} Research Experience
+
++ **Data Analyst**, Big Data Research Lab, Amirkabir University of Technology &mdash; **2015 - Present**.
+	+ I'm working on a project titled “_Big Data Analytics in Healthcare_". The project objective is to analyze and visualize large amounts of Electronic Health Records (EHRs) to generate valuable insights from data. My responsibilities as a data analyst include:
+		+ Using Tableau, D3, Matplotlib to visualize datasets and conduct reports
+		+ Analyzing historical records to reveal patterns, associations and frauds
+		+ Using “GraphLab Create" to apply machine learning algorithms on datasets
+		+ Preparing a streaming application using Apache Spark to analyze real-time EHRs from hospitals in Tehran
++ **Big Data Researcher**, Big Data Research Lab, Amirkabir University of Technology &mdash; **Fall 2014 - Present**
+	+ I'm responsible for researching, investigating and training various Big Data framework and technologies such as Apache Spark, Apache Hadoop, etc.
++ **Big Data Researcher**, Big Data Research Lab, Amirkabir University of Technology &mdash; **Fall 2014 - Present**
+	+ I'm researching on large scale _clustering_ algorithms to parallelize them using Big Data frameworks such as Apache Spark. I've proposed a scalable hierarchical clustering algorithm using Spark (MRSSL).
+---
+
+### ![work]({{ site.url }}/images/cv/work.png){: .image-pull-left} Work Experience
+
++ **Web Developer**, Webgostar, Tehran &mdash; **Mar 2013 - Sep 2013**
+	+ Responsible for designing and implementing dynamic web pages and developing various Joomla components.
++ **Software Developer**, Webgostar, Tehran &mdash; **Mar 2012 - Jul 2012**
+	+ Responsible for designing and implementing a license management system which provide activation solutions to protect any third-party Windows application from illegal copying.
+---
+
 ### ![teaching]({{ site.url }}/images/cv/teacher.png){: .image-pull-left} Teaching Experience
 
 + Cloud Computing and Data Intensive Computing, _Amir Hossein Payberah_ &mdash; **Spring 2015**.
 + Cloud Computing and Data Intensive Computing, _Amir Hossein Payberah_ &mdash; **Fall 2014**.
 + Advanced Programming, _Mohammad Amin Mahdavi_ &mdash; **Spring 2013**.
 
-
+---
 
 
