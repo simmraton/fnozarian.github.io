@@ -10,18 +10,7 @@ image:
   creditlink: http://fortune.com/2015/06/24/google-data-center-alabama/
 ---
 
-### ![interest]({{ site.url }}/images/cv/about.png){: .image-pull-left} My Interests <a href="#" class="btn" style="float:right">Download Full CV</a>
-
-I'm a curious data science researcher with strong interest in mining, visualizing and processing **big data**! I'm passionate about the following subjects:
-	
-+ **Big Data Analytics**
-+ **Machine Learning**
-+ **Data Mining**
-+ **Cloud Computing**
-
----
-
-### ![education]({{ site.url }}/images/cv/university.png) Education
+### ![education]({{ site.url }}/images/cv/university.png) Education <a href="#" class="btn" style="float:right">Download Full CV</a>
 
 - **M.Sc. in Software Engineering**, _Amirkabir University of Technology (Tehran Polytechnic)_, Tehran, Iran &mdash; **2013 - Present**
 	- Thesis: Proposing a New Method for Parallel and Scalable Data Clustering Using MapReduce
