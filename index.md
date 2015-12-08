@@ -5,8 +5,6 @@ tags: [Farzad Nozarian, about, data science, big data]
 share: false
 image:
   feature: ds4_2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 > Data is not information, information is not knowledge, knowledge is not understanding, understanding is not wisdom. **Clifford Stoll**
