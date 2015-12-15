@@ -49,7 +49,7 @@ Farzad.
 - I am writing to inquire about the announced PhD positions in X, announced on your web page. 
 
 
-### whats your goal
+### Whats your goal
 - I would like for you to supervise my PhD. 
 - Currently, I am looking for universities and available positions to resume my education in the direct PhD program.
 - The project seems very attractive and I am extremely interested in working on it under your supervision.
