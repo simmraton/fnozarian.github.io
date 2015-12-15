@@ -8,14 +8,14 @@ comments: true
 
 Hey guys,
 
-I decided to summarize what I've learned during the process of "Sending a PhD Application Letter to a Supervisor". I hope you find this summarization helpful. Don't hesitate to leave  a comment and share your idea.
+I decided to summarize what I've learned during the process of *"Sending a PhD Application Letter to a Supervisor"*. I hope you find this summarization helpful. Don't hesitate to leave  a comment and share your idea.
 
 Thanks,
 Farzad.
 
 ---
 
-## General Notes:
+## General Notes
 - The first contact should not be a spam letter, that is, a letter that you could easily have sent to 1000 faculty members worldwide, and probably did.:
 	- It is addressed to "Dear Professor" and does not mention the project name or the university, even though you think my work is wonderful and desperately want to work with me.
 	- The letter gives no indication that the writer has spent even a few minutes looking at the online materials related to my work.
@@ -41,7 +41,7 @@ Farzad.
 
 ## Mail Content
 
-### Introduce and your interests:
+### Introduce and your interests
 - I am a graduate student in X.
 - My name is X X. I received my B.Sc. degree from X University of Technology, Tehran, Iran.
 - I am a graduate student of Photonics from Shahid Beheshti University (Tehran, Iran) with a background on {my research}, highly interested in your research area.
@@ -49,13 +49,13 @@ Farzad.
 - I am writing to inquire about the announced PhD positions in X, announced on your web page. 
 
 
-### whats your goal:
+### whats your goal
 - I would like for you to supervise my PhD. 
 - Currently, I am looking for universities and available positions to resume my education in the direct PhD program.
 - The project seems very attractive and I am extremely interested in working on it under your supervision.
 - It would be really an honor for me to pursue my studies under your supervision since, regarding your papers especially “…….”, I found a close relationship between your interests and mine.
 
-### Do your Homework! Research before you search:
+### Do your Homework! Research before you search
 - I have read your papers X, Y and Z and have a few questions about how the work might be extended.  Should I send these questions to one of your Ph.D. students or may I send them to you directly?
 - I've read some of your papers such as “XXX”. They are best compatible to my research interest. I am very eager to know your opinion regarding my case in applying to XXX Especially I would be really interested if I have the chance to become a member of your team.
 - I read paper entitled 'D' published by your group at 'E' and was interested in ...
@@ -68,7 +68,7 @@ Farzad.
 - I read [1,2] to know more about your work on observer design in which I'm currently preparing a paper to submit to EJC. I've also read [2] to get a general overview of the battery modeling. This paper really interested me in the first part of the project, failure modeling.
 -  I have read your related research works to my interests. They sound so interesting, especially your recent paper “.......”. I think my background is in line with yours in perspective of PPP
 
-### CV, Application Date or Available positions:
+### CV, Application Date or Available positions
 - It would be highly appreciated if you take a look on the attached file which is my CV
 - I would like to appreciate your kindly response and reviewing my C.V as well
 - I would appreciate it if you could take a look at my CV attached, and inform me upon any probable position for the fall 2016.
@@ -84,12 +84,12 @@ Farzad.
 - In response to a PhD opening position announcement on your website, I sent my attached CV to you for your consideration. 
 - I really appreciate it if you could tell me whether there is any chance for me to join your Ph.D. program.
 
-### Make the funding situation clear:
+### Make the funding situation clear
 
 ### Be respectful of their precious time
 - I know you’re very busy so I appreciate any time you can give me.  Thanks very much,
 
-### Thanks and I'm waiting for your response:
+### Thanks and I'm waiting for your response
 - Thanks for your time, and I hope to hear from you soon!
 - Thank you in advance for taking the time and reading my email, I look forward to your kind response. Yours respectfully
 - I look forward to hearing from you.
@@ -203,5 +203,5 @@ Sincerely
 
 ### References:
 
-- https://www.quora.com/Graduate-School-Admissions/How-do-I-write-the-first-email-to-a-professor-that-may-accept-me-as-his-graduate-student
-- http://www.applyabroad.org/forum/forumdisplay.php?63-%D8%AA%D9%85%D8%A7%D8%B3-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D8%A7%D8%AF%D8%A7%D9%86
+- [quora.com](https://www.quora.com/Graduate-School-Admissions/How-do-I-write-the-first-email-to-a-professor-that-may-accept-me-as-his-graduate-student)
+- [applyabroad.org](http://www.applyabroad.org/forum/forumdisplay.php?63-%D8%AA%D9%85%D8%A7%D8%B3-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D8%A7%D8%AF%D8%A7%D9%86)
