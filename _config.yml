@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Yet Another Data Researcher
+title:            Yet Another Signal Processing Researcher
 locale:           en_US
-url:			  http://fnozarian.github.io
+url:			  http://simm.github.io
 
 
 # Jekyll configuration
@@ -26,10 +26,10 @@ kramdown:
 
 # Site owner
 owner:
-  name: Farzad Nozarian
+  name: SIMM Raton Mondol
   avatar: bio-photo.jpg
   bio: "I am master student at Amirkabir University of Technology. I research in the filed of big data analytics, data mining and machine learning with focus on Cluster Analysis."
-  email: fnozarian@gmail.com
+  email: simmraton@gmail.com
   disqus-shortname:
   twitter: #username
   facebook: #username
